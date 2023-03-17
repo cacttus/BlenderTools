@@ -12,6 +12,8 @@ import bpy
 from mathutils import Vector, Matrix, Euler
 
 # region Globals
+def test():
+  msg("hi")
 
 def dbg(str):
   _msg("[D] " + str)
