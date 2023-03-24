@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../modules/BlenderTools
+[remote "origin"]
+	url = https://cacttus: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@github.com/cacttus/BlenderTools.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
